@@ -24,4 +24,4 @@ Email: <a href="mailto:teefarooqi@gmail.com">teefarooqi@gmail.com</a><br/>
 LinkedIn: <a href="https://www.linkedin.com/in/tehreemfarooqi/">Tehreem Farooqi</a><br/>
 Twitter: <a href="https://twitter.com/TehreemFarooqi">@TehreemFarooqi</a>
 
-- 💬 Let's start a conversation about starting an entrepreneurial venture together, or ask me about those Urdu/Hindi words you don't understand, or gimme a job opportunity maybe? 😉
+- 💬 Let's have a chat about starting an entrepreneurial venture together, or ask me about those Urdu/Hindi words you don't understand, or gimme a job opportunity maybe? 😉
