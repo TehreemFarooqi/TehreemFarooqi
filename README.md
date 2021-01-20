@@ -19,8 +19,9 @@ This is Tehreem Farooqi who goes real crazy about her Machine Learning projects,
 
 - 🔭 These days I'm working on an exciting product related to Urdu language, stay tuned for an update on that!
 
-- 📫 I love working on ML models and data visualization so if you or your buddies got anything like that, do reach out to me:
-Email: <a href="mailto:teefarooqi@gmail.com">teefarooqi@gmail.com</a>
-LinkedIn: <a href="https://www.linkedin.com/in/tehreemfarooqi/">Tehreem Farooqi</a>
+- 📫 I love working on ML models and data visualization so if you or your buddies got anything like that, do reach out to me:<br/>
+Email: <a href="mailto:teefarooqi@gmail.com">teefarooqi@gmail.com</a><br/>
+LinkedIn: <a href="https://www.linkedin.com/in/tehreemfarooqi/">Tehreem Farooqi</a><br/>
+Twitter: <a href="https://twitter.com/TehreemFarooqi">@TehreemFarooqi</a>
 
 - 💬 Let's start a conversation about starting an entrepreneurial venture together, or ask me about those Urdu/Hindi words you don't understand, or gimme a job opportunity maybe? 😉
