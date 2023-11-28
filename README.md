@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Tehreem Farooqi who goes real crazy about her Machine Learning projects, loves graphic designing, and sometimes likes to talk about herself in third person. She also did a lot of content writing before getting interested in AI and data science. These days I am working at Teradata as an Associate Data Scientist - analysing trends, building predicitve models, and learning new methodologies.
+This is Tehreem Farooqi who goes real crazy about her Machine Learning projects, loves graphic designing, and sometimes likes to talk about herself in third person. She also did a lot of content writing before getting interested in AI and data science. These days I am working at Jazz as a Data Scientist developing solutions to improve customer's lives and learning all about the Telco industry.
 
 - I love working on ML models and data visualization so if you or your buddies got anything like that, do reach out to me:<br/>
 Email: <a href="mailto:teefarooqi@gmail.com">teefarooqi@gmail.com</a><br/>
