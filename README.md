@@ -1,4 +1,4 @@
-# Hello, World! 🌍
+# H-AI there!
 
 I’m **Tehreem Farooqi** — a Data Scientist by day, AI enthusiast by night, and a lifelong learner always on the hunt for the next big challenge.
 
