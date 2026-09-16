@@ -1,19 +1,48 @@
 # H-AI there!
 
-I’m **Tehreem Farooqi** — a Data Scientist at Jazz, AI enthusiast, and lifelong learner. My work focuses on AI-driven solutions that transform customer experience and business strategy. From enhancing credit scoring systems to developing predictive models that save millions in healthcare costs, I’m all about **making data work for people**.
+I'm Tehreem, a **Forward Deployed AI Engineer** in Islamabad.
 
-Beyond the corporate world, I’m a creator at heart. I’ve built AI tools that turn selfies into cartoons, automate content pipelines for influencers, and more. I blend creativity with technical expertise to solve unique problems.
+I sit down with a team, find the real problem, and build the whole solution myself. Sometimes that's a Copilot Studio agent. Sometimes it's a full RAG system on Azure or a data pipeline on AWS. The problem picks the stack.
 
-## What I Do:
+Right now I'm a Senior AI Engineer at Royal Cyber, building agents and automation on the Microsoft stack.
 
-- **Elevate data initiatives:** Smarter, data-driven decisions with predictive modeling, forecasting, and AI deployment on cloud platforms.
-  
-- **Innovative projects:** Let’s bring challenging ideas to life.
-  
-- **AI strategy consulting:** Guidance for starting out or optimizing existing processes.
+## Things I've shipped
 
-## Let’s Connect:
+Most of my work lives in client and company repos, so here's what it does instead of the code.
 
-📫 **Email:** [teefarooqi@gmail.com](mailto:teefarooqi@gmail.com)  
-💼 **LinkedIn:** [Tehreem Farooqi](https://www.linkedin.com/in/tehreemfarooqi/)  
-💻 **GitHub:** [TehreemFarooqi](https://github.com/TehreemFarooqi)
+- **Enterprise RAG over SharePoint.** Separate ingestion for documents and lists, Azure AI Search, and a Microsoft Foundry agent so staff can find answers on their own.
+- **Tanker ordering for a water bottler.** Predicts silo levels 24 hours ahead and tells the client when to order. Runs as a Copilot Studio agent with scheduled Agent Flows. About 5% error.
+- **Call center QA at Jazz.** Whisper for transcripts, LLMs on Bedrock for scoring. Agent reviews went from under 10% coverage to 100%, at 93% accuracy.
+- **Robocall voice generation.** Audio that took 3 days now takes under 15 seconds.
+- **Finance and HR automation** for an Australian edtech company, with Copilot Studio, Power Platform, and custom connectors.
+- **Heart failure risk model** at Teradata, trained on 45 million patient records.
+- **Tarjumaan**, an automatic Urdu video captioning system from my research days at NUST. ([DeepSpeech transfer learning](https://github.com/TehreemFarooqi/DeepSpeech-Transfer-Learning-for-local-languages))
+
+## Side projects
+
+- **AlohoMira.** AI mock interviews. You upload a resume and a job description, do a live voice interview with Mira, and get a competency report. The LLM makes judgments. Code does the scoring, so no made-up numbers. Next.js, OpenAI, ElevenLabs, Cloud Run.
+- **[WhimNym](https://github.com/TehreemFarooqi/whimnym).** My print-on-demand brand. An automation writes the puns and posts them.
+- **Cartoonify.** A CycleGAN that turns selfies into cartoons.
+
+## What I work with
+
+- **Microsoft:** Foundry, Copilot Studio, Power Platform, Azure AI Search, App Service
+- **AWS:** Bedrock, SageMaker, Step Functions
+- **Code:** Python, TypeScript, Next.js, FastAPI, LangChain
+- **AI:** RAG, agents, LLM evaluation, speech-to-text and TTS
+
+## Around the community
+
+- Facilitated Microsoft's *Agent in a Day* workshop with Microsoft
+- Spoke at Microsoft Build //localhost Islamabad
+- Guest lecture at NUST SEECS
+- Microsoft Power Platform Functional Consultant Associate · AWS Cloud Practitioner
+
+## Let's build something
+
+I take on consulting and freelance work in **AI agents, automation, and RAG**.
+
+Got a process that eats your team's hours? Or an agent idea you're not sure is doable? Send me a few lines about the problem. I'll tell you if AI is the right fit and what it would take.
+
+📫 [teefarooqi@gmail.com](mailto:teefarooqi@gmail.com)\
+💼 [LinkedIn](https://www.linkedin.com/in/tehreemfarooqi/)
